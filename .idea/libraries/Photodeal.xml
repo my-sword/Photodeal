@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Photodeal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Photodeal_jar/Photodeal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
